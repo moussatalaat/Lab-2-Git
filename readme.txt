@@ -11,4 +11,8 @@
 8- Auther identity: git config --global user.email "moussa.talaat@gmail.com".
 9- Commit : git commit -m "Hello Git".                           
 10- git status.
-11- git add.                                          
+11- git add.     
+12- Commit : git commit -m "Hello World".
+13- git status
+14- git add .
+15-                                     
