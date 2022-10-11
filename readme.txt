@@ -1,0 +1,10 @@
+1- Download & Install git.
+2- Open ITI folder, right-click and open Git Bash Here.
+3- Create Git-cource folder with mkdir Git-cource.
+4- Create several file with different extensions with touch command : a- index.html.
+                                                                      b- style.css.
+                                                                      c-app.js.
+                                                                      d-readme.txt.
+5- Init Git in our directory : git init.
+6- Chack for our directory status : git status.
+7-                                                                       
