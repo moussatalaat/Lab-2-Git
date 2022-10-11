@@ -7,4 +7,8 @@
                                                                       d-readme.txt.
 5- Init Git in our directory : git init.
 6- Chack for our directory status : git status.
-7-                                                                       
+7- Add files : git add. 
+8- Auther identity: git config --global user.email "moussa.talaat@gmail.com".
+9- Commit : git commit -m "Hello Git".                           
+10- git status.
+11- git add.                                          
