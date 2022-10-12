@@ -15,4 +15,14 @@
 12- Commit : git commit -m "Hello World".
 13- git status
 14- git add .
-15-                                     
+15- git log --oneline
+    ->  b06c631 (HEAD -> master) Hello ITI
+        a206204 Hello Front-end Developers
+        2311452 Adding Hello World
+        89c36b5 Hello Git
+
+16- git reset a206204 --hard
+    ->  a206204 (HEAD -> master) Hello Front-end Developers
+        2311452 Adding Hello World
+        89c36b5 Hello Git
+                                   
